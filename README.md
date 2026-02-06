@@ -6,11 +6,14 @@ Contents
 The repository currently includes very basic Python scripts demonstrating:
 
 Printing Output
+
+
 A simple example showing how to print text to the console:
 
-print("Hello World")  # A simple program that prints "Hello, World!" to the console
+print("Hello World")       # A simple program that prints "Hello, World!" to the console
 
 Using Imports
+
 An introductory script that demonstrates how to import and use common Python libraries:
 
 random for generating random numbers
