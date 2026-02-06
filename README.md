@@ -5,12 +5,12 @@ This repository provides introductory Python scripts designed to help beginners 
 Contents
 The repository currently includes very basic Python scripts demonstrating:
 
-1. Printing Output
+Printing Output
 A simple example showing how to print text to the console:
 
 print("Hello World")  # A simple program that prints "Hello, World!" to the console
 
-2. Using Imports
+Using Imports
 An introductory script that demonstrates how to import and use common Python libraries:
 
 random for generating random numbers
